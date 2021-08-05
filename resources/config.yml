@@ -1,0 +1,8 @@
+// Jika Ingin Mengganti Nama Item Ganti item1 - item2 - item3
+item1: "Teman"
+item2: "Warp"
+item3: "Report"
+// Commmand
+command1: "friend"
+command2: "warpui"
+command3: "reportui"
