@@ -1,0 +1,5 @@
+name: LobbyCore
+main: lobbycore\Main
+version: 1.0.0
+author: IzyanZ
+api: 3.0.0
