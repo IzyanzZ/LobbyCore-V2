@@ -33,11 +33,11 @@ class Main extends PluginBase implements Listener {
 
         $player->getInventory()->clearAll();
 
-        $item = Item::get(399, 0, 1);
+        $item = Item::get(397, 0, 1);
         $item->setCustomName($this->getConfig->get('item'));
-        $item2 = Item::get(409, 0, 1);
+        $item2 = Item::get(345, 3, 1);
         $item2->setCustomName($this->getConfig->get('item2');
-        $item3 = Item::get(385, 0, 1);
+        $item3 = Item::get(145, 0, 1);
         $item3->setCustomName($this->getConfog->get('item3');
 
         $player->getInventory()->setItem(0, $item);
